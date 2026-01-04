@@ -44,6 +44,7 @@ This converts the Python bytecode into readable Python source code.
 
 # Key & IV Extraction
 Using the provided script on the decompiled Python code reveals the encryption key and IV, completing the challenge.
+[solve script](scripts/EggHead.py)
 
 ![alt text](<ss/Screenshot 2026-01-04 192116.png>)
 
