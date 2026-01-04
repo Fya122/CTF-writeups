@@ -48,8 +48,8 @@ Using the provided script on the decompiled Python code reveals the encryption k
 ![alt text](<ss/Screenshot 2026-01-04 192116.png>)
 
 # Final Key and IV
-Key: m0nk3y_d_l0f1_j0y_b0y
-IV: 0n3p13c3
+- Key: m0nk3y_d_l0f1_j0y_b0y 
+- IV: 0n3p13c3
 
 
 # Tools used
